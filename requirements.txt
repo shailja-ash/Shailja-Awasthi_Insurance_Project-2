@@ -1,0 +1,15 @@
+openai
+dotenv
+pydantic
+streamlit
+
+langchain
+langchain-openai
+langchain-community
+
+faiss-cpu
+
+fastapi
+uvicorn
+
+tenacity
